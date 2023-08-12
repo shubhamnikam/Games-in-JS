@@ -1,2 +1,2 @@
-# VanillaJS
+# Games in JS
  
